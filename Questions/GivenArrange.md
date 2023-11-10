@@ -43,4 +43,3 @@ How is this kept only to the relevant details for the test?
 - Is the DI system used to get an instance of the SUT?
 - Do you manipulate the DI container to replace some dependencies with test doubles?
 - Do you specifically test the DI container?
-
