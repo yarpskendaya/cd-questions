@@ -1,6 +1,9 @@
 # General
 Establish the scope of the session
 
+## Foreword
+I'll try to keep the scope of the questions general so they don't only address my domain/tech stack, but inevitably the questions will be colored by my (lack of experience). My language of choice is C#, so questions will be asked in the context of .NET solutions/projects/classes etc.
+
 ## Goals
 
 My question to Dave initially was:  
