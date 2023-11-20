@@ -24,6 +24,9 @@ Some main goals to strive towards in this session:
 
 ## Specific Subjects
 
+### Solution Structure
+[Solution Structure](./SolutionStructure.md)
+
 ### DSL
 [DSL Questions](./DSL.md)
 
@@ -35,7 +38,6 @@ Some main goals to strive towards in this session:
 
 ### Then/Assert
 [Then/Assert Questions](./ThenAssert.md)
-
 
 ## Final Notes
 - Any book recommendations on this subject?

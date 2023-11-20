@@ -1,1 +1,9 @@
 # When/Act Questions
+
+(Original question)
+Do you make a habit to extract the calling of the SUT into the DSL in order to write tests where you only provide the calling parameters you deem interesting in the context of the test?
+
+## UI
+- How do usually fire up UI in Acceptance Tests?
+- Do you ever do this in Unit Tests?
+- Is this more for Component Tests?
